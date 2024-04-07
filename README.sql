@@ -1,6 +1,7 @@
 -- The job is to calculate bonus for employees based on different criteria.
 -- Criteria: 
-			-- Quality - Evaluation scores
+
+	    -- Quality - Evaluation scores
             -- Total Hours - Actual hours worked + vacation and sick leave hours
             -- Productivity - Tickets processed per hour
             -- False Escalations - Percentage of incorrectly escalated tickets vs total escalated tickets
